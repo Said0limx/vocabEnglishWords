@@ -1,0 +1,11 @@
+table{
+    width: 100px;
+    text-align: center;
+    margin: auto;
+}
+.deletebtn{
+    width: 80px;
+    height: 30px;
+    color: white;
+    font-size: 10px;
+}
